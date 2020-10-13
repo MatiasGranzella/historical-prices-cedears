@@ -1,0 +1,236 @@
+COMPANY_CODE,DESCRIPTION,RATIO_CONVERTION,FREQUENCY_DISTRIBUTION_EARNINGS
+MMM,3M Company,5,Trimestral
+ABT,Abbott Labs,2,Trimestral
+ANF,ABERCROMBIE & FITCH CO.,1,No informado
+ADGO,ADECOAGRO S.A.,1,Ninguna
+ADBE,ADOBE SYSTEMS INCORPORATED,11,No informado
+AMD,"ADVANCED MICRO DEVICES, INC.",1,Ninguna
+AEG,AEGON N.V.,1,Semestral
+AEM,Agnico Eagle Mines Limited,3,Trimestral
+BABA,ALIBABA GROUP HOLDING LIMITED,9,Ninguna
+AGN,ALLERGAN PLC,8,No informado
+GOOGL,Alphabet Inc.,29,Ninguna
+AABA,ALTABA INC,9,Ninguna
+MO,Altria Group Inc.,4,Trimestral
+ACH,Aluminum Corp of China,5,Irregular
+AMZN,"AMAZON.COM, INC.",72,Ninguna
+ABEV,AMBEV S.A.,1,No informado
+AMX,America Movil,1,Semestral
+AXP,American Express Co,10,Trimestral
+AIG,American International Group (AIG),5,Trimestral
+AMGN,Amgen Inc.,5,Trimestral
+ADI,Analog Devices,3,Trimestral
+AAPL,Apple Inc.,10,Trimestral
+AMAT,Applied Materials Inc.,5,Trimestral
+ARNC,Arconic Inc.,6,Trimestral
+ARCO,ARCOS DORADOS HOLDINGS INC.,1,Semestral
+AZN,Astrazeneca PLC,2,Semestral
+T,AT &T Inc.,3,Trimestral
+ADP,Automatic Data Processing Inc,2,Trimestral
+AVY,Avery Dennison Corp.,3,Trimestral
+CAR,Avis Budget Group Inc.,1,Irregular
+AVP,Avon Products Inc.,1,Irregular
+BIDU,"BAIDU, INC.",11,Ninguna
+BBD,Banco Bradesco S.A.,1,Irregular
+BSBR,Banco Santander (BRASIL) S.A.,1,Irregular
+BA.C,Bank of America Corporation,2,Trimestral
+BCS,Barclays Bank PLC,6,Semestral
+GOLD,Barrick Gold Corp,1,Trimestral
+BAS,BASF SE,2,Anual
+BAYN,Bayer AG,1,Anual
+BHP,BHP Group LTD,1,Semestral
+BBV,Bilbao Vizcaya Argentaria S.A.,1,Trimestral
+BIIB,BIOGEN INC.,13,Ninguna
+BB,BlackBerry Limited,3,Ninguna
+BA,Boeing Co,3,Trimestral
+BP,BP PLC,5,Trimestral
+BRFS,BRF S.A.,1,Irregular
+BMY,Bristol-Myers Squibb Company,1,Trimestral
+BT,BT GROUP PLC,8,Semestral
+BNG,BUNGE LIMITED,5,Trimestral
+CAJ,Canon Inc,2,Semestral
+CAH,Cardinal Health Inc,3,Trimestral
+CAT,Caterpillar Inc,5,Trimestral
+CELG,CELGENE CORPORATION,5,Ninguna
+CX,Cemex S.A.B. de CV,1,Anual
+EBR,CENTRAIS ELÉTRICAS BRASILEIRAS S.A. - ELETROBRÁS,1,No informado
+CVX,Chevron Corp.,8,Trimestral
+LFC,China Life Insurance,2,Anual
+CHL,CHINA MOBILE LTD.,6,Semestral
+SNP,China Petroleum & Chem,3,Anual
+CHA,China Telecom Corp LTD,2,Anual
+CSCO,Cisco Systems Inc,5,Trimestral
+C,Citigroup Inc,30,Trimestral
+CEO,CNOOC LTD.,4,Semestral
+KO,Coca-Cola Co.,5,Trimestral
+KOFM,"COCA-COLA FEMSA, S.A.B. De C.V..",2,Semestral
+CDE,Coeur Mining Inc.,1,Irregular
+CL,Colgate Palmolive Co,3,Trimestral
+SBS,COMPANHIA DE SANEAMENTO BÁSICO DO ESTADO DE SÃO PAULO–SABESP,1,No informado
+ELP,COMPANHIA PARANAENSE DE ENERGIA – COPEL,1,No informado
+SID,COMPANHIA SIDERÚRGICA NACIONAL,1,No informado
+GLW,Corning Inc.,4,Trimestral
+COST,Costco Wholesale Corp,4,Trimestral
+CS,Credit Suisse Group,1,Anual
+CTRP,"CTRIP.COM INTERNATIONAL, LTD.",2,Anual
+DAI,Daimler AG,4,Anual
+BSN,DANONE,20,Anual
+DE,Deere & Co.,2,Trimestral
+DESP,"DESPEGAR.COM, CORP.",1,Ninguna
+DTEA,Deutsche Telekom AG,3,Anual
+DEO,Diageo PLC,2,Semestral
+DD,DUPONT DE NOMOURS,5,Trimestral
+EOAN,E.ON SE,6,Anual
+EBAY,EBAY Inc.,1,Ninguna
+CBRD,COMPANHIA BRASILEIRA DE DISTRIBUIÇÃO,1,No informado
+LLY,Eli Lilly and Company,4,Trimestral
+ERJ,EMBRAER-EMPRESA BRASILEIRA DE AERONÁUTICA S.A.,1,No informado
+E,ENI SpA,4,Semestral
+XOM,Exxon Mobil Corporation,5,Trimestral
+FB,"FACEBOOK, INC.",8,No informado
+FNMA,"Fed. Natl, Mortgage - Fannie Mae",3,Trimestral
+FDX,FEDEX CORP,2,Trimestral
+FSLR,First Solar Inc.,6,Ninguna
+FMX,Fomento Economico Mexicano - FEMSA,2,Semestral
+FMCC,Freddie Mac (Federal Home Loan),2,Irregular
+FCX,Freeport McMoran Copper & Gold Inc.,4,Irregular
+GRMN,GARMIN LTD.,3,Semestral
+GE,General Electric Co.,5,Trimestral
+GGB,GERDAU S.A.,1,No informado
+GILD,"GILEAD SCIENCES, INC.",4,Ninguna
+GSK,GlaxoSmithkline plc,4,Trimestral
+GLNT,GLOBANT S.A.,2,Mensual
+GFI,Gold Fields Ltd.,1,Semestral
+PAC,"GRUPO AEROPORTUARIO DEL PACIFICO, S.A.B. de C.V.",2,Semestral
+ASR,"GRUPO AEROPORTUARIO DEL SURESTE , S.A.B. de C.V.",2,Anual
+TV,Grupo Televisa S.A.,3,Anual
+HOG,Harley-Davidson Inc.,3,Trimestral
+HMY,HARMONY GOLD MINING COMPANY LTD.,1,Semestral
+HDB,HDFC BANK LIMITED.,2,Anual
+HL,Hecla Mining Co .,1,Trimestral
+HD,"Home Depot Inc., The",4,Trimestral
+HHPD,Hon Hai Precision Industry Co. Ltd.,2,Anual
+HMC,Honda Motor Co. LTD,1,Trimestral
+HON,HONEYWELL INTERNATIONAL INC.,4,Trimestral
+HPQ,HP Inc,5,Trimestral
+HSBC,HSBC Holdings PLC,2,Trimestral
+HNP,Huaneng Power Intl,1,Anual
+IBN,ICICI BANK LTD.,1,Anual
+INFY,Infosys Limited,4,Semestral
+ING,ING Groep NV,3,Semestral
+INTC,Intel Corporation,5,Trimestral
+IBM,International Business Machines,10,Trimestral
+IFF,International Flavors & Fragrances Inc.,2,Trimestral
+IP,International Paper Co.,4,Trimestral
+ITUB,ITAÚ UNIBANCO HOLDING S.A.,1,Ninguna
+JPM,J.P. Morgan & Chase Co.,10,Trimestral
+JD,"JD.COM, INC.",2,No informado
+JNJ,Johnson & Johnson,5,Trimestral
+JCI,JOHNSON CONTROLS INTERNATIONAL,5,Trimestral
+KB,KB Financial Group Inc.,2,Anual
+KMB,Kimberly-Clark Corp.,3,Trimestral
+KGC,Kinross Gold Corp,1,Irregular
+PHG,Koninklijke Philips N.V.,5,Anual
+KEP,Korea Electric Power Corp.,1,Anual
+LVS,Las Vegas Sands Corp,1,Trimestral
+LYG,Lloyds Banking Group plc,2,Semestral
+ERIC,LM Ericsson Telephone Co.,2,Anual
+LMT,Lockheed Martin Corporation,1,Trimestral
+MMC,Marsh & McLennan Companies Inc.,4,Trimestral
+MCD,McDonald's Corp.,4,Trimestral
+MDT,MEDTRONIC PUBLIC LIMITED COMPANY,2,Trimestral
+MELI,MercadoLibre Inc.,2,Trimestral
+MRK,Merck & Co. Inc.,10,Trimestral
+MSFT,Microsoft Corp,5,Trimestral
+MUFG,Mitsubishi UFJ Financial Group,1,Semestral
+MFG,Mizuho Financial Group,1,Semestral
+MBT,Mobile Telesystems,2,Semestral
+MSI,"Motorola Solutions, Inc.",5,Trimestral
+NGG,National Grid PLC,2,Semestral
+NEC1,Nec Corporation,1,Anual
+NTES,"NETEASE, INC.",14,Ninguna
+NFLX,"NETFLIX, INC.",16,Ninguna
+NEM,Newmont Goldcorp Corporation,1,Trimestral
+NKE,Nike Inc.,3,Trimestral
+NSAN,"Nissan Motor Co., LTD",1,Semestral
+NOKA,Nokia Corporation,1,Anual
+NMR,"Nomura Holdings, Inc",1,Semestral
+NG,NOVAGOLD RESOURCES INC.,1,No informado
+NVS,Novartis AG,2,Anual
+NLM,NOVOLIPETSK STEEL PJSC,2,Trimestral
+DCMYY,"NTT Docomo, Inc",1,Semestral
+NUE,Nucor Corp,2,Trimestral
+NVDA,NVIDIA CORPORATION,12,No informado
+ORCL,Oracle Corporation,3,Trimestral
+ORAN,ORANGE,7,Semestral
+PCAR,Paccar Inc.,3,Trimestral
+PCRF,Panasonic Corporation,2,Semestral
+PYPL,"PAYPAL HOLDINGS, INC.",4,No informado
+PSO,Pearson PLC,1,Semestral
+PEP,Pepsico Inc,2,Trimestral
+PTR,Petrochina Co Ltd,4,Semestral
+PFE,Pfizer Inc.,2,Trimestral
+PBI,Pitney Bowes Inc,3,Trimestral
+OGZD,PJSC GAZPROM,2,Anual
+LKOD,PJSC LUKOIL,4,Semestral
+ATAD,PJSC TATNEFT,4,Irregular
+PKS,POSCO,6,Trimestral
+PG,Procter & Gamble,5,Trimestral
+QCOM,Qualcomm Inc.,11,Trimestral
+RIO,Rio Tinto PLC,4,Semestral
+ROST,"ROSS STORES, INC.",4,Ninguna
+RDS,Royal Dutch Shell PLC,2,Trimestral
+CRM,"SALESFORCE.COM, INC.",6,Ninguna
+SMSN,SAMSUNG ELECTRONICS CO. LTD.,14,Trimestral
+SAP,SAP SE,3,Anual
+SLB,Schlumberger Ltd,3,Trimestral
+SIEGY,Siemens AG ADR,3,Anual
+SNAP,SNAP INC.,1,No informado
+SNA,Snap-On Inc,2,Trimestral
+SNE,Sony Corporation,2,Semestral
+SCCO,Southern Copper Corp,2,Trimestral
+SBUX,Starbucks Corporation,1,Trimestral
+SUZ,SUZANO PAPEL E CELULOSE S.A.,1,No informado
+SYY,Sysco Corp.,2,Trimestral
+TSM,Taiwan Semiconductor Manufacturing,1,Anual
+TGT,TARGET CORPORATION,4,No informado
+TTM,TATA MOTORS LTD,1,Anual
+TI,Telecom Italia S.P.A. Ordinary Shares,7,Anual
+VIV,TELEFÔNICA BRASIL S.A.,1,No informado
+TEFO,Telefonica S.A.,8,Semestral
+TXR,TERNIUM S.A.,2,Anual
+TSLA,"TESLA, INC.",15,Ninguna
+TXN,Texas Instruments Inc,5,Trimestral
+BK,THE BANK OF NEW YORK MELLON CORP.,2,Trimestral
+GS,"THE GOLDMAN SACHS GROUP, INC",13,No informado
+HSY,THE HERSHEY COMPANY,3,Trimestral
+DISN,THE WALT DISNEY CO.,8,Semestral
+TMO,THERMO FISHER SCIENTIFIC INC.,11,No informado
+TSU,TIM PARTICIPAÇÕES S.A.,1,Anual
+TOT,TOTAL S.A.,3,Trimestral
+TM,Toyota Motor Corporation,5,Semestral
+TRVV,Travelers Cos. Inc.,3,Trimestral
+TRIP,"TRIPADVISOR, INC.",2,Ninguna
+TWTR,"TWITTER, INC.",1,Ninguna
+USB,U.S. BANCORP,1,Trimestral
+UGP,ULTRAPAR PARTICIPAÇÕES S.A.,1,Semestral
+UN,UNILEVER N.V.,3,Trimestral
+X,United States Steel Corp.,3,Trimestral
+UTX,United Technologies Corp.,5,Trimestral
+URBN,"URBAN OUTFITTERS, INC.",2,Ninguna
+VALE,Vale S.A.,2,Semestral
+VEDL,VEDANTA LIMITED,1,Semestral
+VRSN,"VERISIGN, INC.",6,Ninguna
+VZ,Verizon Communications Inc.,2,Trimestral
+VIAB,Viacom Inc-CL B,1,Trimestral
+V,VISA INC,6,No informado
+VOD,Vodafone Group PLC,10,Semestral
+WMT,WALMART Inc.,3,Trimestral
+WBO,WEIBO CORPORATION,6,Ninguna
+WFC,Wells Fargo & Co.,5,Trimestral
+WBK,Westpac Banking Corporation,3,Semestral
+XROX,XEROX CORPORATION,1,No informado
+AUY,Yamana Gold Inc.,1,Mensual
+YZCA,YANZHOU COAL MINING CO. LTD.,2,Anual
+YELP,YELP INC.,2,Ninguna
+YY,YY INC.,5,No informado
